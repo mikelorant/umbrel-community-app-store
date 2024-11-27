@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: mikelorant-open-webui
+name: Open WebUI
+tagline: An extensible, feature-rich, and user-friendly self-hosted WebUI
+icon: https://docs.openwebui.com/img/logo.png
+category: ai
+version: "0.4.5"
+port: 3000
+description: >-
+  Open WebUI is an extensible, feature-rich, and user-friendly self-hosted
+  WebUI designed to operate entirely offline. It supports various LLM runners,
+  including Ollama and OpenAI-compatible APIs.
+
+developer: Timothy Jaeryang Baek
+website: https://openwebui.com
+submitter: mikelorant
+submission: https://github.com/mikelorant/umbrel-community-app-store
+repo: https://github.com/mikelorant/umbrel-community-app-store
+support: https://github.com/mikelorant/umbrel-community-app-store/issues
+gallery:
+  - https://raw.githubusercontent.com/IceWhaleTech/CasaOS-AppStore/refs/heads/main/Apps/OpenWebUI/screenshot-1.png
+  - https://raw.githubusercontent.com/IceWhaleTech/CasaOS-AppStore/refs/heads/main/Apps/OpenWebUI/screenshot-2.png
+  - https://raw.githubusercontent.com/IceWhaleTech/CasaOS-AppStore/refs/heads/main/Apps/OpenWebUI/screenshot-3.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

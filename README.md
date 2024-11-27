@@ -8,9 +8,10 @@ updates, management and content in this app store are handled independently.
 
 ## Apps
 
-| Name                | Description                               | Port |
-| :------------------ | :---------------------------------------- | :--- |
-| Nginx Proxy Manager | Expose your services easily and securely. | 81   |
+| Name                | Description                                                  | Port |
+| :------------------ | :----------------------------------------------------------- | :--- |
+| Nginx Proxy Manager | Expose your services easily and securely.                    | 81   |
+| Open WebUI          | An extensible, feature-rich, and user-friendly self-hosted WebUI. | 8080 |
 
 ## Installation
 
