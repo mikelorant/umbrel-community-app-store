@@ -8,9 +8,9 @@ updates, management and content in this app store are handled independently.
 
 ## Apps
 
-| Name | Description | Port |
-| ---- | ----------- | ---- |
-|      |             |      |
+| Name                | Description                               | Port |
+| :------------------ | :---------------------------------------- | :--- |
+| Nginx Proxy Manager | Expose your services easily and securely. | 81   |
 
 ## Installation
 
