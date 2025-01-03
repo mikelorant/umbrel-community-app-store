@@ -4,7 +4,7 @@ name: Open WebUI
 tagline: An extensible, feature-rich, and user-friendly self-hosted WebUI
 icon: https://docs.openwebui.com/img/logo.png
 category: ai
-version: "0.4.5"
+version: "0.5.3"
 port: 6984
 description: >-
   Open WebUI is an extensible, feature-rich, and user-friendly self-hosted
